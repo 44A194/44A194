@@ -1,1 +1,1 @@
-<img width="200" height="208" alt="image" src="https://github.com/user-attachments/assets/77c6246a-769d-4a34-bda9-f117c066f589" /> [![spotify-github-profile](https://spotify-github-profile.kittinanx.com/api/view?uid=31livhve32iik7l5hmzariq5qcou&cover_image=true&theme=novatorem&show_offline=false&background_color=121212&interchange=false&profanity=false&bar_color=53b14f&bar_color_cover=true)](https://github.com/kittinan/spotify-github-profile)
+<img width="200" height="208" alt="image" src="https://github.com/user-attachments/assets/77c6246a-769d-4a34-bda9-f117c066f589" />
